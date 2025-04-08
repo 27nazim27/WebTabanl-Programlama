@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "g5PaJ2oMaN/zLq0Jhso5b/e5TN/2R26MW8gDqm0+6+0=",
+  "Source": "E-Ticaret",
+  "BasePath": "_content/E-Ticaret",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "E-Ticaret\\wwwroot",
+      "Source": "E-Ticaret",
+      "ContentRoot": "C:\\Users\\NAZIM\\OneDrive\\Masaüstü\\ASP.NET\\E-Ticaret\\E-Ticaret\\wwwroot\\",
+      "BasePath": "_content/E-Ticaret",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

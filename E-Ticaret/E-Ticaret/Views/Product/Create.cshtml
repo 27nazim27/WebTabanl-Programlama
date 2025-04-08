@@ -1,0 +1,8 @@
+﻿@using E_Ticaret.Models;
+@model Product
+<form asp-action="Create" asp-controller="Product">
+    Ürüm Adı:<input type="text" asp-for="Name" /><br />
+    Açıklama:<input type="text" asp-for="Decription" /><br />
+    Fiyat:<input type="text" asp-for="Price" /><br />
+    <button type="submit">Ekle</button>
+</form>
